@@ -93,6 +93,6 @@ for test in range(t):
         if i:
             for j in sorted(i):
                 print(j,end = ' ')
-            print()
+            print() 
 
     
